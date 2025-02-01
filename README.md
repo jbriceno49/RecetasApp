@@ -152,12 +152,16 @@ expo start
 ## 📸 Ejemplo de Uso
 ### 1️⃣ Ingresando Ingredientes Manualmente
 🔹 Escribe ingredientes separados por comas y presiona "Buscar Recetas".
-
+![WhatsApp Image 2025-02-01 at 10 21 07](https://github.com/user-attachments/assets/58982704-47f1-4177-b627-dd298dc1df88)
 ## 2️⃣ Subiendo una Imagen para Detectar Ingredientes
 🔹 Sube una imagen con ingredientes y la app detectará los productos automáticamente.
+![WhatsApp Image 2025-02-01 at 10 21 08 (1)](https://github.com/user-attachments/assets/2153582b-77dd-481f-953a-b6cd140a1165)
+![WhatsApp Image 2025-02-01 at 10 21 08 (2)](https://github.com/user-attachments/assets/c777cfa0-9d4a-450f-b810-b54afa9c1b12)
 
 ## 3️⃣ Resultados de la Búsqueda
 🔹 Se muestran recetas con título, ingredientes y pasos.
+![WhatsApp Image 2025-02-01 at 10 21 08](https://github.com/user-attachments/assets/5864a3b6-472d-495c-a549-a87076e3105a)
+![WhatsApp Image 2025-02-01 at 10 21 08 (3)](https://github.com/user-attachments/assets/da9e144e-4d36-47f4-a949-65e73f255f75)
 
 ## 📁 Estructura del Proyecto
 ``` bash
